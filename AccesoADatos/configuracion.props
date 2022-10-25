@@ -1,0 +1,6 @@
+#Fichero de configuracion
+#Tue Sep 20 15:45:33 CEST 2022
+server=elServidor
+password=miContrase\u00F1a
+port=elPuerto
+user=miUsuario

@@ -1,0 +1,24 @@
+<XMLWriteRead.ListaPersonas>
+  <lista>
+    <Persona>
+      <nombre>Cristian</nombre>
+      <Anyos>25</Anyos>
+    </Persona>
+    <Persona>
+      <nombre>Roberto Mateos</nombre>
+      <Anyos>43</Anyos>
+    </Persona>
+    <Persona>
+      <nombre>Rocio Sanz</nombre>
+      <Anyos>23</Anyos>
+    </Persona>
+    <Persona>
+      <nombre>Abel</nombre>
+      <Anyos>22</Anyos>
+    </Persona>
+    <Persona>
+      <nombre>Maria</nombre>
+      <Anyos>18</Anyos>
+    </Persona>
+  </lista>
+</XMLWriteRead.ListaPersonas>
